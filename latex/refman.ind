@@ -1,0 +1,27 @@
+\begin{theindex}
+
+  \item {deviation}
+    \subitem {hw\_broken.cc}, \hyperpage{5}
+    \subitem {hw\_fixed.cc}, \hyperpage{6}
+    \subitem {main.cpp}, \hyperpage{6}
+
+  \indexspace
+
+  \item {hw\_broken.cc}, \hyperpage{5}
+    \subitem {deviation}, \hyperpage{5}
+  \item {hw\_fixed.cc}, \hyperpage{5}
+    \subitem {deviation}, \hyperpage{6}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.cpp}, \hyperpage{7}
+  \item {main.cpp}, \hyperpage{6}
+    \subitem {deviation}, \hyperpage{6}
+    \subitem {main}, \hyperpage{7}
+
+  \indexspace
+
+  \item {README.md}, \hyperpage{7}
+
+\end{theindex}
